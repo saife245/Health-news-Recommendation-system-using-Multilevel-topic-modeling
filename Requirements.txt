@@ -1,0 +1,7 @@
+Requirements:
+
+Python 3.5+
+Anaconda
+pandas
+nltk
+pyLDAvis
